@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
+## jumik x music 🚀
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dattudd/Tomxmusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
@@ -49,8 +49,8 @@ bash start
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [𝐌𝐫 𝐏𝐞𝐫𝐟𝐞𝐜𝐭](https://t.me/MrPerfectXd): Developer
-- [𝐓𝐨𝐦 𝐗](https://t.me/TomXJerry_Bot): Test Bot
+- [𝐌𝐫 𝐏𝐞𝐫𝐟𝐞𝐜𝐭](https://t.me/mental_pillodu): Developer
+- [𝐓𝐨𝐦 𝐗](https://t.me/mental_pillodu): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 

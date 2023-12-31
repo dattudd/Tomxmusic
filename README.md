@@ -5,7 +5,7 @@
 <br><b> ˹● jumik x music  ●˼™
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/Our_Groupps"><img src="https://graph.org/file/5b5803b02a24b043fc6d0.jpg"></a></p>
+<p align="center"><a href="https://t.me/myra_updates"><img src="https://telegra.ph/file/b11d9e5019f6d6e33b5b5.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

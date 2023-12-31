@@ -24,10 +24,10 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹● 𝑻𝑶𝑴 ✘ 𝑱𝑬𝑹𝑹𝒀 𝑴𝑼𝑺𝑰𝑪 ●˼™")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹● jumik x music ™")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5555422614").split())
+    map(int, getenv("OWNER_ID", "").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,16 +36,16 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/dattuxd/BK-OP-TOM",
+    "https://github.com/dattudd/Tomxmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Our_Groupps")
+    "SUPPORT_CHANNEL", "https://t.me/myra_updates")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/MUSICAL_BEATSZ")
+    "SUPPORT_GROUP", "https://t.me/myra_updates")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 

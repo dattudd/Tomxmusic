@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<br><b> ˹● 𝑻𝑶𝑴 ✘ 𝑱𝑬𝑹𝑹𝒀 𝑴𝑼𝑺𝑰𝑪 ●˼™
+<br><b> ˹● jumik x music  ●˼™
 </b><br>
 </p>
 <p align="center"><a href="https://t.me/Our_Groupps"><img src="https://graph.org/file/5b5803b02a24b043fc6d0.jpg"></a></p>

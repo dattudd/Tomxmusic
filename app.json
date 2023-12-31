@@ -1,5 +1,5 @@
 {
-    "name": "TOM X JERRY",
+    "name": "jumik X JERRY",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/5b5803b02a24b043fc6d0.jpg",
     "keywords": [
@@ -65,11 +65,11 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5555422614",
+        "value": "6728160367",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session @MrperfectXd. One Assistant is Compulsory.",
+        "description": "A Pyrogram String Session @mental_pillodu. One Assistant is Compulsory.",
         "value": "",
         "required": true
       },
@@ -100,12 +100,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/TeluguFriendsHub",
+        "value": "https://t.me/myra_updates",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/Our_Groupps",
+        "value": "https://t.me/myra_updates",
         "required": false
       }
     },

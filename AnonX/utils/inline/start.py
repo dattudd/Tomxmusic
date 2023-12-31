@@ -10,24 +10,24 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🥺 ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴘ ʙᴀʙᴜ 🥺",
+                text="🌷𝐀ԃ𝐃 𝐌ҽ 𝐓σ 𝐘συ𝐑 𝐆ɾσυ𝐏🌷",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="ʜᴇʟᴩ",
+                text="𝐂σɱɱαɳԃ𝐒",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
-                text="sᴇᴛᴛɪɴɢs", callback_data="settings_helper"
+                text="𝐒ҽƚƚιɳɠ𝐒", callback_data="settings_helper"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="ᴍᴀɪɴᴛᴀɪɴᴇʀ", user_id=OWNER),
+                text="𝐅συɳԃҽ𝐑", user_id=OWNER),
             InlineKeyboardButton(
-                text="sᴜᴩᴩᴏʀᴛ", url=f"{config.SUPPORT_GROUP}"
+                text="𝐆ɾσυ𝐏", url=f"{config.SUPPORT_GROUP}"
             ),
         ],
      ]
@@ -38,24 +38,24 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🥺 ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ 🥺",
+                text="🌷𝐀ԃ𝐃 𝐌ҽ 𝐓σ 𝐘συ𝐑 𝐆ɾσυ𝐏🌷",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="ʜᴇʟᴩ", callback_data="settings_back_helper"
+                text="𝐂σɱɱαɳԃ𝐒", callback_data="settings_back_helper"
             ),
         ],
         [
             InlineKeyboardButton(text="ᴍᴀɪɴᴛᴀɪɴᴇʀ", user_id=OWNER),
             InlineKeyboardButton(
-                text="sᴜᴩᴩᴏʀᴛ", url=f"{config.SUPPORT_GROUP}"
+                text="𝐆ɾσυ𝐏", url=f"{config.SUPPORT_GROUP}"
             ),
         ],
         [
             InlineKeyboardButton(
-                    text="🌹 ᴛɪᴛᴀɴ ɴᴇᴛᴡᴏʀᴋ 🌹", url="https://t.me/TitanNetwrk"
+                    text="🌹 𝑀𝑦𝑟𝑎 network 🌹", url="https://t.me/myra_updates"
                 )
         ],
      ]

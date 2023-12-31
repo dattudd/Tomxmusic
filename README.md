@@ -49,8 +49,8 @@ bash start
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [𝐌𝐫 𝐏𝐞𝐫𝐟𝐞𝐜𝐭](https://t.me/mental_pillodu): Developer
-- [𝐓𝐨𝐦 𝐗](https://t.me/mental_pillodu): Test Bot
+- [chinna](https://t.me/mental_pillodu): Developer
+- [jumik x](https://t.me/mental_pillodu): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -58,6 +58,6 @@ bash start
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Support & Developer 🎑
-<a href="https://t.me/All_india_Whatsapp_Status"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Our_Groupps"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/myra_updates"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/myra_updates"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
